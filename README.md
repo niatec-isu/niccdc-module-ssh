@@ -26,7 +26,10 @@ but try to solve this without looking at the solutions!
 ## Connecting
 
 The Workstation VM is currently hosted on Proxmox, and is only accessible from the NIATEC lab.
-Access it by visiting https://192.168.33.111:8006, using `root` as the username, and the password from STACHE.
+Access it by visiting [](https://192.168.33.111:8006/#v1:0:=qemu%2F118:4:5:=contentIso:::8::5), using `root` as the username, and the password from STACHE.
+
+**The username and password are in the [first message](message1.md).**
+
+If you are not automatically connected to the VM, use these steps to connect.
 The VM is on `pve-r430-4` and is called `riley-ssh-workstation`.
 Click on the VM, then on Console near the top-left of the screen.
-The username and password are in the first message.
