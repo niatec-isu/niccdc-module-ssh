@@ -4,7 +4,7 @@
 
 Try searching for `Root`.
 
-<detail>
+<details>
 
 <summary>Solution</summary>
 
@@ -19,4 +19,4 @@ Ensure this line exists:
 PermitRootLogin no
 ```
 
-</detail>
+</details>

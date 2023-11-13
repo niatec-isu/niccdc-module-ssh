@@ -7,7 +7,7 @@ To get help, use:
 man ssh
 ```
 
-<detail>
+<details>
 
 <summary>Solution</summary>
 
@@ -15,4 +15,4 @@ man ssh
 ssh <username>@<IP>
 ```
 
-</detail>
+</details>

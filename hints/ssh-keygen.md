@@ -10,7 +10,7 @@ man ssh-keygen
 
 Try searching for `ed25519`.
 
-<detail>
+<details>
 
 <summary>Solution</summary>
 
@@ -18,4 +18,4 @@ Try searching for `ed25519`.
 ssh-keygen -t ed25519
 ```
 
-</detail>
+</details>

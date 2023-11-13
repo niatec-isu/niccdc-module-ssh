@@ -4,7 +4,7 @@
 
 Try searching for `Group`.
 
-<detail>
+<details>
 
 <summary>Solution</summary>
 
@@ -19,4 +19,4 @@ Ensure this line exists:
 AllowGroups remote
 ```
 
-</detail>
+</details>

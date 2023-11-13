@@ -4,7 +4,7 @@
 
 Try searching for `Authentication`.
 
-<detail>
+<details>
 
 <summary>Solution</summary>
 
@@ -20,4 +20,4 @@ PasswordAuthentication no
 KbdInteractiveAuthentication no
 ```
 
-</detail>
+</details>

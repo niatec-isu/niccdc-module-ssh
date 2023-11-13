@@ -11,7 +11,7 @@ man ssh-copy-id
 
 ![man](man.md)
 
-<detail>
+<details>
 
 <summary>Solution</summary>
 
@@ -19,4 +19,4 @@ man ssh-copy-id
 ssh-copy-id <username>@<IP>
 ```
 
-</detail>
+</details>

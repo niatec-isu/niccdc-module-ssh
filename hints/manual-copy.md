@@ -13,7 +13,7 @@ You will need to [SSH](ssh.md) into the server.
 Run `sudo su` to become a root.
 Then cat the key and redirect it to it's user's authorized keys file.
 
-<detail>
+<details>
 
 <summary>Solution</summary>
 
@@ -36,4 +36,4 @@ sudo su
 cat <OTHER_USERNAME>_ed25519.pub >> /home/<OTHER_USERNAME>/.ssh/authorized_keys
 ```
 
-</detail>
+</details>

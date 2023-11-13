@@ -7,7 +7,7 @@ To get help, use:
 man scp
 ```
 
-<detail>
+<details>
 
 <summary>Solution</summary>
 
@@ -23,4 +23,4 @@ scp <USERNAME>@<IP>:<FILE> .
 scp <FILE> <USERNAME>@<IP>:.
 ```
 
-</detail>
+</details>

@@ -7,7 +7,7 @@ To get help use:
 man groupadd
 ```
 
-<detail>
+<details>
 
 <summary>Solution</summary>
 
@@ -15,4 +15,4 @@ man groupadd
 groupadd remote
 ```
 
-</detail>
+</details>

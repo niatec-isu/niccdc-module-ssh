@@ -9,7 +9,7 @@ man usermod
 
 Try searching for `group` and `append`.
 
-<detail>
+<details>
 
 <summary>Solution</summary>
 
@@ -17,4 +17,4 @@ Try searching for `group` and `append`.
 usermod -aG remote <USERNAME>
 ```
 
-</detail>
+</details>
