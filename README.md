@@ -15,6 +15,18 @@
 
 ## Messages
 
+There are links in each message that act as hints.
+Feel free to use the hints as much as you'd like,
+but try to solve this without looking at the solutions!
+
 - [First Message](message1.md)
 - [Second Message](message2.md)
 - [Third Message](message3.md)
+
+## Connecting
+
+The Workstation VM is currently hosted on Proxmox, and is only accessible from the NIATEC lab.
+Access it by visiting https://192.168.33.111:8006, using `root` as the username, and the password from STACHE.
+The VM is on `pve-r430-4` and is called `riley-ssh-workstation`.
+Click on the VM, then on Console near the top-left of the screen.
+The username and password are in the first message.
