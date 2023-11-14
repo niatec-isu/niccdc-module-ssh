@@ -15,4 +15,4 @@ Use `man` to see the available options:
 man sshd_config
 ```
 
-![man](man.md)
+[man](man.md)

@@ -9,7 +9,7 @@ If you need help, then run:
 man ssh-copy-id
 ```
 
-![man](man.md)
+[man](man.md)
 
 <details>
 

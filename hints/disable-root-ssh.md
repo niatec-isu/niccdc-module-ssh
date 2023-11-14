@@ -1,6 +1,6 @@
 # Disable Root Login Through SSH
 
-![SSH Server Config](sshd-config.md)
+[SSH Server Config](sshd-config.md)
 
 Try searching for `Root`.
 

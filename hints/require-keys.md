@@ -1,6 +1,6 @@
 # Requiring SSH Keys
 
-![SSH Server Config](sshd-config.md)
+[SSH Server Config](sshd-config.md)
 
 Try searching for `Authentication`.
 

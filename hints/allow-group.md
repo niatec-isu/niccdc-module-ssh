@@ -1,6 +1,6 @@
 # Allowing Groups
 
-![SSH Server Config](sshd-config.md)
+[SSH Server Config](sshd-config.md)
 
 Try searching for `Group`.
 
