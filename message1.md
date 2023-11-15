@@ -4,7 +4,7 @@ Hey team,
 
 We need your help securing our SSH server.
 To access the server, you'll need to log into your workstation.
-Once in, open a terminal and use [SSH](hints/ssh.md) to access the server.
+Once in, open a terminal and use [SSH](hints/ssh.md) to access the server at 10.0.0.227.
 You'll be using the username `john` and password `ILovePineappl3`.
 
 We've noticed that several users are logging in with root through SSH.
