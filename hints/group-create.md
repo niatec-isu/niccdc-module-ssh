@@ -7,6 +7,8 @@ To get help use:
 man groupadd
 ```
 
+[man](man.md)
+
 <details>
 
 <summary>Solution</summary>

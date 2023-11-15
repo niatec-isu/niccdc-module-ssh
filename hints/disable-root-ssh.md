@@ -2,7 +2,7 @@
 
 [SSH Server Config](sshd-config.md)
 
-Try searching for `Root`.
+Try [searching](hints/man.md) for `Root` in `man sshd_config`.
 
 <details>
 

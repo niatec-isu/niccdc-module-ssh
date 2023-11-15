@@ -1,6 +1,7 @@
 # SCP
 
 Use `scp`.
+The syntax is very similar to `cp`.
 To get help, use:
 
 ```sh
@@ -11,13 +12,13 @@ man scp
 
 <summary>Solution</summary>
 
-## Download (Remote to Local)
+## Download (Server to Workstation)
 
 ```sh
 scp <USERNAME>@<IP>:<FILE> .
 ```
 
-## Upload (Local to Remote)
+## Upload (Workstation to Server)
 
 ```sh
 scp <FILE> <USERNAME>@<IP>:.

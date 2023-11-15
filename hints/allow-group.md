@@ -2,7 +2,7 @@
 
 [SSH Server Config](sshd-config.md)
 
-Try searching for `Group`.
+Try [searching](man.md) for `Group` in `man sshd_config`.
 
 <details>
 

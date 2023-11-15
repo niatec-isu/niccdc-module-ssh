@@ -1,4 +1,4 @@
-# Creating Groups
+# Adding Users to Groups
 
 You'll need to use `usermod`.
 To get help use:
@@ -7,7 +7,7 @@ To get help use:
 man usermod
 ```
 
-Try searching for `group` and `append`.
+Try [searching](man.md) for `group` and `append`.
 
 <details>
 
