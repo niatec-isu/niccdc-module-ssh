@@ -15,6 +15,7 @@ Users are currently logging in using passwords, which leaves us vulnerable to br
 We'd like to require the use of SSH keys.
 This will need to be done in multiple steps.
 You'll need to [generate](hints/ssh-keygen.md) an `ed25519` key for yourself on your workstation.
+You should store this key in the default location and set the passphrase for this key to `ILoveAppl3`.
 Then you'll need to [copy your key](hints/ssh-copy-id.md) to the SSH server, as well as [manually copy](hints/manual-copy.md) the attached keys to the appropriate user accounts.
 At this point, you should [disable both](hints/require-keys.md) password authentication and keyboard interactive authentication.
 You should also take the time to [remove](hints/remove-keys.md) any other authorized keys that you didn't copy over, as they are rogue keys.
