@@ -18,6 +18,7 @@ You'll need to [generate](hints/ssh-keygen.md) an `ed25519` key for yourself on 
 Then you'll need to [copy your key](hints/ssh-copy-id.md) to the SSH server, as well as [manually copy](hints/manual-copy.md) the attached keys to the appropriate user accounts.
 At this point, you should [disable both](hints/require-keys.md) password authentication and keyboard interactive authentication.
 You should also take the time to [remove](hints/remove-keys.md) any other authorized keys that you didn't copy over, as they are rogue keys.
+While removing them, just delete the line that contains the key, not the file itself.
 
 Thanks team!
 When you're done, we have [another task](message2.md) for you.
